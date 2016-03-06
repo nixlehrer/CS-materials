@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tree>
+  <directory name="./CS">
+    <directory name="CAS" size="170">
+      <file name="COMMON LISP- A Gentle Introduction to Symbolic Computation.pdf" size="1719867"></file>
+      <file name="Computer algebra and symbolic computation.pdf" size="3279947"></file>
+    </directory>
+    <file name="How Computers Work.pdf" size="1465579"></file>
+    <file name="Icon" size="0"></file>
+    <file name="Language Implementation Patterns.pdf" size="4231386"></file>
+    <directory name="ML" size="102">
+      <file name="MachineLearning-Introduction-27-10-14.pdf" size="13623086"></file>
+    </directory>
+    <file name="Mining of Massive Datasets.pdf" size="3052284"></file>
+    <directory name="Net" size="102">
+      <file name="Understanding IP Addressing.pdf" size="3004531"></file>
+    </directory>
+    <file name="Pattern Recognition and Machine Learning.pdf" size="9824451"></file>
+    <file name="Programming Language Pragmatics.pdf" size="6252890"></file>
+    <file name="The Elements of Statistical Learning.pdf" size="12753207"></file>
+    <directory name="范畴论" size="204">
+      <file name="Basic Category Theory for Computer Scientists.pdf" size="7930746"></file>
+      <file name="Category Theory for Computing Science.pdf" size="2097033"></file>
+      <file name="Category Theory.pdf" size="1655637"></file>
+    </directory>
+    <directory name="证明论" size="102">
+      <file name="PROOFS AND TYPES.pdf" size="947152"></file>
+    </directory>
+    <directory name="操作系统" size="510">
+      <file name="30天自制操作系统.pdf" size="56268390"></file>
+      <file name="Icon" size="0"></file>
+      <file name="Linux 101 Hacks.pdf" size="858695"></file>
+      <file name="Mac OS X and iOS Internals.pdf" size="36594636"></file>
+      <file name="ORANGE’S：一个操作系统的实现.pdf" size="141685103"></file>
+      <file name="OS X and iOS Kernel Programming.pdf" size="6528988"></file>
+      <file name="OS.pdf" size="7038104"></file>
+      <file name="The Art of Unix Programming.pdf" size="1944998"></file>
+      <file name="The UNIX HATERS  Handbook.pdf" size="3639172"></file>
+      <file name="鸟哥的 Linux 私房菜 -- 基础学习篇.pdf" size="23185870"></file>
+      <file name="鸟哥的 Linux 私房菜 -- 服务器架设篇.pdf" size="10449485"></file>
+      <file name="深入解析 MAC OS X &amp; IOS 操作系统.pdf" size="254648308"></file>
+    </directory>
+    <file name="数学之美.pdf" size="11341324"></file>
+    <directory name="函数式编程" size="714">
+      <file name="All About Monads.pdf" size="736853"></file>
+      <file name="Concepts, Techniques, and Models of Computer Programming.pdf" size="3597076"></file>
+      <file name="FunctionalProgramming1.ppt" size="365568"></file>
+      <file name="Haskell函数式编程入门.pdf" size="78692873"></file>
+      <file name="Introduction to Functional Programming.pdf" size="858079"></file>
+      <file name="Introduction_to_Mathematical_Logic.pdf" size="28836532"></file>
+      <file name="Paradigms of Artificial Intelligence Programming Case Studies in Common Lisp.pdf" size="17642206"></file>
+      <file name="Programming Languages and Lambda Calculi.pdf" size="1051389"></file>
+      <file name="Purely Functional Data Structures.pdf" size="628877"></file>
+      <file name="Real World Haskell.pdf" size="5557788"></file>
+      <file name="SICP.pdf" size="7416886"></file>
+      <file name="Software Foundations.pdf" size="3481827"></file>
+      <file name="Type Theory &amp; Functional Programming.pdf" size="1279885"></file>
+      <file name="Types and Programming Languages.pdf" size="3278772"></file>
+      <file name="Write You a Haskell.pdf" size="682373"></file>
+      <file name="Yet Another Haskell Tutorial.pdf" size="698420"></file>
+      <file name="函数式程设简介2012.pdf" size="3923430"></file>
+      <file name="函数式程序设计简介.pdf" size="371376"></file>
+    </directory>
+    <file name="计算机组成.pdf" size="70347660"></file>
+    <file name="写给大家看的设计书.pdf" size="54690027"></file>
+    <file name="高级编译器设计与实现.pdf" size="27003732"></file>
+  </directory>
+  <report>
+    <directories>7</directories>
+    <files>49</files>
+  </report>
+</tree>
